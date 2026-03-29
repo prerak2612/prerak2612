@@ -82,14 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Prerak's GitHub stats](https://github-readme-stats.vercel.app/api?username=prerak2612\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prerak2612\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📬 Let's Connect
 
 * 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/prerak-arya-a60b89269/)
