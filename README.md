@@ -31,7 +31,7 @@
 
 ## 🌍 Open Source
 
-* 🚀 Currently contributing to **TradeClaw**
+* 🚀 Currently I am  contributing to **TradeClaw**
 
   * Built leaderboard skeleton loader improving loading UX
   * Fixed critical hydration issues in Next.js SSR
