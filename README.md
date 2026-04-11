@@ -12,10 +12,14 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI) Student  
-- 💻 Frontend Developer building real-world products  
-- 🧠 Exploring **AI workflows & RAG systems**  
-- ⚡ Focused on **DSA + scalable frontend systems**
+- 🎓 B.Tech CSE (AI) Student driven by problem-solving and real-world impact  
+- 💻 Building scalable, high-performance frontend applications  
+- 🧠 Exploring AI workflows, RAG systems, and LLM-based applications  
+- ⚡ Strong focus on DSA and system design fundamentals  
+- 🛠️ Tech stack: React, Next.js, Tailwind CSS, Node.js  
+- 📈 Focused on performance optimization, clean architecture, and UX  
+- 🤝 Open-source contributor with experience in collaborative development  
+- 🎯 Actively seeking internships in AI, Frontend, and Full Stack roles  
 
 ---
 
@@ -47,7 +51,7 @@
 ## 🔥 Projects
 
 ### 🔎 Google Search Clone
-🌐 https://googlewebpageclone.netlify.app/  
+🌐 https://googlewebpageclone.netlify.app/
 - Real-time search suggestions  
 - AI image analyzer using TensorFlow.js  
 
