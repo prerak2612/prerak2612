@@ -64,15 +64,24 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
+<div align="center">
+
+### Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,sqlite" />
 </p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+</div>
 
 ---
 
