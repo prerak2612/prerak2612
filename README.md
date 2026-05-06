@@ -89,7 +89,6 @@
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prerak2612&show_icons=true&theme=tokyonight&border_radius=12" />
   
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prerak2612&theme=tokyonight&border_radius=12" />
 </p>
@@ -98,10 +97,6 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=prerak2612&theme=tokyo-night" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerak2612&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
