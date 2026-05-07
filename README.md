@@ -19,7 +19,6 @@
 -  Tech stack: React, Next.js, Tailwind CSS, Node.js  
 -  Focused on performance optimization, clean architecture, and UX  
 -  Open-source contributor with experience in collaborative development  
--  Actively seeking internships in AI, Frontend, and Full Stack roles  
 
 ---
 
