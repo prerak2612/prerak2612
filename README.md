@@ -57,7 +57,12 @@
 ### 🎨 OCHI Landing Page
 🌐 https://ochi-frontend.netlify.app/  
 - UI/UX focused landing page  
-- Smooth animations with React + Tailwind  
+- Smooth animations with React + Tailwind
+
+### 🎨 CoinSage AI  
+🌐 https://coin-sage-ai-nine.vercel.app/
+- AI-powered crypto analytics dashboard  
+- Premium responsive UI with real-time insights  
 
 ---
 
