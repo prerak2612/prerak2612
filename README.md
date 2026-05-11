@@ -54,10 +54,6 @@
 - Real-time search suggestions  
 - AI image analyzer using TensorFlow.js  
 
-### 🎨 OCHI Landing Page
-🌐 https://ochi-frontend.netlify.app/  
-- UI/UX focused landing page  
-- Smooth animations with React + Tailwind
 
 ### 🎨 CoinSage AI  
 🌐 https://coin-sage-ai-nine.vercel.app/
