@@ -58,7 +58,7 @@
 ### 🎨 CoinSage AI  
 🌐 https://coin-sage-ai-nine.vercel.app/
 - AI-powered crypto analytics dashboard  
-- Premium responsive UI with real-time insights  
+- An Premium responsive UI with real-time insights  
 
 ---
 
