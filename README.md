@@ -24,7 +24,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 1st Position – Stealthfire Hackathon  
+- 🥇 1st Position – Stealthfire AI Hackathon  
 - 🎯 Recognized in #LeetcodeChallenge  
 - 🏅 Lead Organizer – GSSOC’24  
 
