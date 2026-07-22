@@ -32,8 +32,8 @@
 
 ## 💼 Experience
 
-- 💻 EX Intern @ Nullclass Edtech — Full Stack Developer  
-- 💻 EX Intern @ Rishihood — Frontend Developer  
+- 💻 EX-Intern @ Nullclass Edtech — Full Stack Developer  
+- 💻 EX-Intern @ Rishihood — Frontend Developer  
 
 ---
 
