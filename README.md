@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me 
 
 -  B.Tech CSE (AI) Student driven by problem-solving and real-world impact  
 -  Building scalable, high-performance frontend applications  
