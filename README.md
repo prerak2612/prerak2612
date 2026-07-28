@@ -5,10 +5,20 @@
 </picture>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=prerak2612&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  <br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prerak2612&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerak2612&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <h3>Top Languages</h3>
+  <a href="https://react.dev">
+    <img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0A101F?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA" alt="Tailwind CSS" />
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=10B981" alt="TypeScript" />
+  </a>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,typescript&theme=dark" alt="React · Tailwind · TypeScript" />
 </div>
 
 ### About
@@ -43,13 +53,15 @@
 
 ### Projects
 
-**Google Search Clone** — https://googlewebpageclone.netlify.app/
-- Real-time search suggestions
-- AI image analyzer using TensorFlow.js
+**Luma Calendar** — [GitHub](https://github.com/prerak2612/luma-calendar) · [Demo](https://luma-calendar.netlify.app/)
+- Production-grade interactive wall calendar (showcased to the TUF team)
+- CRUD notes with category tagging and localStorage persistence
+- Keyboard shortcuts, theme switching, Framer Motion, and seasonal themes
 
-**CoinSage AI** — https://coin-sage-ai-nine.vercel.app/
-- AI-powered crypto analytics dashboard
-- Premium responsive UI with real-time insights
+**DocAgent – AI Document Q&A** — [GitHub](https://github.com/prerak2612/docagent-ai-rag-system) · [Demo](https://docagent-ai-rag-system.vercel.app/)
+- AI-powered document Q&A with custom retrieval and source-backed answers
+- Google Gemini API for chunking and prompt engineering
+- OCR fallback for scanned PDFs and images
 
 <div align="center">
   <picture>
