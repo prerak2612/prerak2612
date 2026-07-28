@@ -51,7 +51,6 @@
 - AI-powered crypto analytics dashboard
 - Premium responsive UI with real-time insights
 
-<!-- Snake: add after Actions run succeeds and creates the `output` branch
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prerak2612/prerak2612/output/github-snake-dark.svg" />
@@ -59,7 +58,6 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/prerak2612/prerak2612/output/github-snake.svg" />
   </picture>
 </div>
--->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/prerak-arya-a60b89269/">
