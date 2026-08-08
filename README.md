@@ -85,4 +85,4 @@
   </a>
 </div>
 
-<p align="center"><em>"Turning ideas into impact through code, collaboration, and consistency..."</em></p>
+<p align="center"><em>"Turning ideas into impact through code, collaboration, and consistency...."</em></p>
